@@ -4,6 +4,9 @@ This is the R implementation of a robust clustering of noisy high-dimensional ge
 expression data technique for patients subtyping
 
 ### Demo
+
+The data used in this demo can be retrieved at the following link: https://drive.google.com/file/d/1U3Gvo6bapZWRwcRlEU0hdnbNv5pgd59v/view?usp=sharing
+
 ```R
 library(otrimle) 
 library(survRM2)
