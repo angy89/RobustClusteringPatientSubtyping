@@ -1,7 +1,7 @@
 # RobustClusteringPatientSubtyping
 
-This is the R implementation of a robust clustering of noisy high-dimensional gene
-expression data technique for patients subtyping
+This is the R implementation of a robust technique for the clustering of noisy and high-dimensional gene
+expression data. 
 
 ### Demo
 
