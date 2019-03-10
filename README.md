@@ -3,6 +3,9 @@
 This is the R implementation of a robust technique for the clustering of noisy and high-dimensional gene
 expression data. 
 
+Reference paper:
+> Coretto, P., Serra, A., & Tagliaferri, R. (2018). Robust clustering of noisy high-dimensional gene expression data for patients subtyping. Bioinformatics, 34(23), 4064-4072.
+
 ### Demo
 
 
