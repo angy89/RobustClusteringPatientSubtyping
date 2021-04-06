@@ -6,9 +6,7 @@ expression data.
 Reference paper:
 > Coretto, P., Serra, A., & Tagliaferri, R. (2018). Robust clustering of noisy high-dimensional gene expression data for patients subtyping. Bioinformatics, 34(23), 4064-4072.
 
-#NOTE: 
-
-This code is compatible with otrimle version 1.3 available at https://cran.r-project.org/src/contrib/Archive/otrimle/
+NOTE: This code is compatible with otrimle version 1.3 available at https://cran.r-project.org/src/contrib/Archive/otrimle/
 
 ### Demo
 
